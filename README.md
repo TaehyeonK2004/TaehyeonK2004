@@ -5,8 +5,7 @@ I build with Java and C++ and focus on Java backend development.
 
 ### 🌏 A little context
 
-From South Korea, spent a high school in Pakistan,
-and now studying computer science in Indiana.
+I'm from South Korea, went to high school in Pakistan, and now study computer science in Indiana.
 
 
 ### 💻 Languages
