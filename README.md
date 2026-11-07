@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Taehyeon.
 
-<!--
-**TaehyeonK2004/TaehyeonK2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at DePauw University, graduating in May 2028.
+I work with Java and C++, with an interest in backend development.
 
-Here are some ideas to get you started:
+### 🔎 Currently exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Object-oriented programming and software design
+- Data structures and algorithms
+- Backend development with Java
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-B5653B?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-426A8C?style=flat-square)
+![Python](https://img.shields.io/badge/Python-8A763B?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square)
+
+### 🌎 Beyond code
+
+I follow baseball and basketball, enjoy traveling, and study languages.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/taehyeon-kim-632669293/) · [Email](mailto:taehyeonkim_2028@depauw.edu)
