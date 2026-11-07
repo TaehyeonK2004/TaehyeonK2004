@@ -1,13 +1,13 @@
 # Hi, I'm Taehyeon.
 
 I'm a Computer Science student at DePauw University, graduating in May 2028.
-I work with Java and C++, with an interest in backend development.
+I build with Java and C++ and focus on Java backend development.
 
-### 🔎 Currently exploring
+### 🌏 A little context
 
-- Object-oriented programming and software design
-- Data structures and algorithms
-- Backend development with Java
+From South Korea, with a technology internship in Pakistan,
+and now studying computer science in Indiana.
+
 
 ### 💻 Languages
 
@@ -16,9 +16,9 @@ I work with Java and C++, with an interest in backend development.
 ![Python](https://img.shields.io/badge/Python-8A763B?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square)
 
-### 🌎 Beyond code
+### 🏀 Beyond code
 
-I follow baseball and basketball, enjoy traveling, and study languages.
+Baseball, basketball, road trips, and learning languages.
 
 ---
 
