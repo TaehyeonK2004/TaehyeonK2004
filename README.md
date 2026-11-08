@@ -1,7 +1,6 @@
 # Hi, I'm Taehyeon
 
 I'm a Computer Science student at DePauw University, graduating in May 2028.
-I build with Java and C++ and focus on Java backend development.
 
 ### 🌏 A little context
 
