@@ -1,6 +1,6 @@
 # Hi, I'm Taehyeon
 
-I'm a Computer Science student at DePauw University, graduating in May 2028.
+I'm a Computer Science student at DePauw University.
 
 ### 🌏 A little context
 
